@@ -2,7 +2,7 @@
   "data": [
     {
       "companyName": "IBM India Pvt. Ltd.",
-      "companyLogo": "images/wipro_logo.png",
+      "companyLogo": "https://github.com/arunbapi1/demo/blob/master/wipro_logo.png",
       "designation": "Junior Software Engineer",
       "duration": "Jan 2007 to Jan 2009",
       "role": "Developer",
@@ -10,7 +10,7 @@
     },
     {
       "companyName": "Accenture India Pvt. LTd.",
-      "companyLogo": "images/wipro_logo.png",
+      "companyLogo": "https://github.com/arunbapi1/demo/blob/master/wipro_logo.png",
       "designation": "Software Engineer",
       "duration": "Jan 2009 to Jan 2011",
       "role": "Coder",
@@ -18,7 +18,7 @@
     },
     {
       "companyName": "Cagpemini India Pvt. LTd.",
-      "companyLogo": "images/wipro_logo.png",
+      "companyLogo": "https://github.com/arunbapi1/demo/blob/master/wipro_logo.png",
       "designation": "Consultant",
       "duration": "Feb 2011 to Mar 2014",
       "role": "Senior Developer",
@@ -26,7 +26,7 @@
     },
     {
       "companyName": "IVY Mobility Pvt. LTd.",
-      "companyLogo": "images/wipro_logo.png",
+      "companyLogo": "https://github.com/arunbapi1/demo/blob/master/wipro_logo.png",
       "designation": "Senior Consultant",
       "duration": "April 2014 to Mar 2015",
       "role": "Senior Developer",
@@ -34,7 +34,7 @@
     },
     {
       "companyName": "WebSpiders Pvt. LTd.",
-      "companyLogo": "images/wipro_logo.png",
+      "companyLogo": "https://github.com/arunbapi1/demo/blob/master/wipro_logo.png",
       "designation": "Tech Lead",
       "duration": "April 2015 to Mar 2016",
       "role": "Team Lead",
@@ -42,7 +42,7 @@
     },
     {
       "companyName": "Wipro India Pvt. LTd.",
-      "companyLogo": "images/wipro_logo.png",
+      "companyLogo": "https://github.com/arunbapi1/demo/blob/master/wipro_logo.png",
       "designation": "Tech Lead",
       "duration": "April 2016 to Till Date",
       "role": "Team Lead",
